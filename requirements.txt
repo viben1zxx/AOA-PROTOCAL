@@ -1,0 +1,38 @@
+# AOA Protocol - Python Backend Dependencies
+
+# Web3 & Blockchain
+web3
+eth-account
+eth-keys
+eth-typing
+
+# Satellite Data Processing (using compatible versions)
+numpy
+scipy
+scikit-learn
+Pillow
+
+# Market Data APIs
+requests
+aiohttp
+
+# LangChain & LLM
+langchain
+langchain-openai
+openai
+
+# Cryptography & Security
+pycryptodome
+cryptography
+
+# Data Processing
+pandas
+python-dateutil
+
+# Logging & Utils
+python-dotenv
+pyyaml
+
+# Testing (optional)
+pytest
+pytest-asyncio
